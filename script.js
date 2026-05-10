@@ -76,10 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
     const navbar = document.querySelector('.navbar');
     window.addEventListener('scroll', () => {
         if (window.scrollY > 50) {
-            navbar.style.boxShadow = '0 4px 20px rgba(0, 0, 0, 0.3)';
+            navbar.style.boxShadow = '0 4px 20px rgba(75, 63, 63, 0.3)';
             navbar.style.background = 'rgba(26, 29, 33, 0.95)';
         } else {
-            navbar.style.boxShadow = '0 2px 8px rgba(0, 0, 0, 0.1)';
+            navbar.style.boxShadow = '0 2px 8px rgba(75, 63, 63, 0.3)';
             navbar.style.background = '#1a1d21';
         }
     });
