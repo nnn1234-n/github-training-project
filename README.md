@@ -22,9 +22,13 @@
 ![Footer Section](images/screenshot4.png)
 *الفوتر النهائي للموقع بتصميم بسيط واحترافي*
 
-##  خطوات التشغيل
 
-1. استنسخ المشروع:
+## 🔗 رابط المستودع
+**https://github.com/nnn1234-n/github-training-project**
+
+## 📥 خطوات التشغيل
+
+### 1. استنسخ المشروع:
 ```bash
 git clone https://github.com/nnn1234-n/github-training-project.git
 ```
@@ -34,3 +38,4 @@ git clone https://github.com/nnn1234-n/github-training-project.git
 
 ##  اسم الطالب
 **نغم أيمن عبد العزيز الدرهلي**
+
