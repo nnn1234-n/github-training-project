@@ -24,7 +24,7 @@
 
 ##  خطوات التشغيل
 
-1. استنسخ المشروع:
+1.  رابط المشروع:
 ```bash
 git clone https://github.com/nnn1234-n/github-training-project.git
 ```
@@ -34,3 +34,4 @@ git clone https://github.com/nnn1234-n/github-training-project.git
 
 ##  اسم الطالب
 **نغم أيمن عبد العزيز الدرهلي**
+
