@@ -40,13 +40,12 @@ body {
     font-size: 1.3rem;
     font-weight: 700;
     background: linear-gradient(135deg, #38bdf8, #818cf8);
-<<<<<<< HEAD
      -webkit-background-clip: text; 
          background-clip: text; 
-=======
+
     -webkit-background-clip: text;
       background-clip: text;    
->>>>>>> feature/final-update
+
     color: transparent;
     text-decoration: none;
 }
@@ -80,11 +79,9 @@ body {
     font-size: 2.2rem;
     background: linear-gradient(135deg, #38bdf8, #a78bfa);
     -webkit-background-clip: text;
-<<<<<<< HEAD
+
     background-clip: text; 
-=======
       background-clip: text;    
->>>>>>> feature/final-update
     color: transparent;
 }
 
