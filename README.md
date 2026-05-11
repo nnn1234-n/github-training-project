@@ -23,12 +23,12 @@
 *الفوتر النهائي للموقع بتصميم بسيط واحترافي*
 
 
-## 🔗 رابط المستودع
-**https://github.com/nnn1234-n/github-training-project**
+## 🔗 رابط المشروع اونلاين
+**https://nnn1234-n.github.io/github-training-project/**
 
 ## 📥 خطوات التشغيل
 
-### 1. استنسخ المشروع:
+### 1. رابط المستودع
 ```bash
 git clone https://github.com/nnn1234-n/github-training-project.git
 ```
