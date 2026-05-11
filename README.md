@@ -23,8 +23,8 @@
 *الفوتر النهائي للموقع بتصميم بسيط واحترافي*
 
 
-## 🔗 رابط المستودع
-**https://github.com/nnn1234-n/github-training-project**
+## 🔗 رابط المشروع اونلاين
+**https://nnn1234-n.github.io/github-training-project/**
 
 ## 📥 خطوات التشغيل
 
